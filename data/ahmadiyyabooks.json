@@ -1,0 +1,63 @@
+{
+    "title": {
+        "media": {
+          "url": "https://flic.kr/p/8M1oRS",
+          "caption": "Hazrat Mirza Ghulam Ahmad Qadiani AS",
+          "credit": "flikr/<a href='https://flic.kr/p/8M1oRS'>Al Islam</a>"
+        },
+        "text": {
+          "headline": "Hazmirza Ghulam Ahmad AS",
+          "text": "<p>Mirza Ghulam Ahmad (Urdu مرزا غلام احمد DMG Mirzā Ġulām Aḥmad; geboren am 13. Februar 1835 in Qadian; gestorben am 26. Mai 1908 in Lahore) war ein britisch-indischer Prediger und Begründer der Ahmadiyya-Bewegung. Er erhob den Anspruch, der „Mudschaddid (Erneuerer) des 14. islamischen Jahrhunderts“, der „Verheißene Messias“ (Zweite Gegenwart Christi), der von Muslimen erwartete Mahdi der Endzeit[1] und ein „(Mohammed nachgeordneter) Prophet“ zu sein.[2] Er verkündete, dass Jesus (Isa ibn Maryam) seine Kreuzigung überlebt habe, nach Indien ausgewandert und später in Srinagar, Kaschmir, eines natürlichen Todes gestorben sei, und beanspruchte, im Geist und in Vollmacht Jesu aufzutreten. Außerdem verkündete er, Guru Nanak Dev, der Stifter des Sikhismus, sei ein Muslim gewesen.[3] Er vertrat auch die Auffassung, dass Messias und Imam Mahdi zwei Titel für dieselbe Person seien.</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://www.alislam.org/wp-content/uploads/2017/11/Barahin-e-Ahmadiyya-Parts-I-and-II-195x300.jpg",
+          "caption": "Published from 1880-1884.",
+          "credit": "Mirza Ghulam Ahmad"
+        },
+        "start_date": {
+          "month": "1",
+          "day": "1",
+          "year": "1880"
+        },
+        "text": {
+          "headline": "Barahin-e-Ahmadiyya",
+          "text": "<p>A comprehensive defense of Islam that argues for its superiority and the authenticity of the Quran and the prophethood of Muhammad. It also contains Ahmad's claims of being the Mujaddid (reformer) of the 14th Islamic century.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.alislam.org/wp-content/uploads/2017/11/Elucidation-of-Objectives.jpg",
+          "caption": "Published in 1891",
+          "credit": "Mirza Ghulam Ahmad"
+        },
+        "start_date": {
+          "month": "1",
+          "day": "1",
+          "year": "1891"
+        },
+        "text": {
+          "headline": "Izala-e-Auham",
+          "text": "<p>Addresses various doubts and misconceptions about Islam and clarifies Ahmad's claims regarding his role as the promised Messiah and Mahdi.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.alislam.org/wp-content/uploads/2017/11/The-Philosophy-of-the-Teachings-of-Islam-221x300.jpg",
+          "caption": "Published in 1905",
+          "credit": "Mirza Ghulam Ahmad"
+        },
+        "start_date": {
+          "month": "1",
+          "day": "1",
+          "year": "1905"
+        },
+        "text": {
+          "headline": "The Philosophy of the Teachings of Islam",
+          "text": "<p>Presented at the Conference of Great Religions, this book explores the spiritual, moral, and social teachings of Islam</p>"
+        }
+      }
+    ]
+}
